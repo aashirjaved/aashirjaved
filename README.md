@@ -42,3 +42,6 @@
 <a href="https://github.com/aashirjaved-zz/">
   <img align="left" alt="Aashir's Old Github" width="22px" src="https://user-images.githubusercontent.com/124151170/224557198-55de8077-7a30-4585-b6fb-9093aa13c9ca.png" />
 </a>
+
+<h2>What I am upto now a days?</h2>
+<h3>Currently, I am deeply engaged in the development of large language models (LLMs) and exploring ways to better manage their use, particularly in the context of Gen AI. In this work, I am focused on balancing the potential of LLMs with the need to ensure their use is appropriate and aligned with project goals.</h3>
