@@ -2,7 +2,6 @@
 <a href="https://www.instagram.com/aashirjaved/">
   <img align="left" alt="Aashir's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-</a>
 <a href="https://www.linkedin.com/in/aashirjaved/">
   <img align="left" alt="Aashir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
