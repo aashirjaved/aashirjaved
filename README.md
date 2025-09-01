@@ -7,7 +7,7 @@
   <img align="left" alt="Aashir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
-<h3>My Go to Technologies: </h3>
+<h3>Technologies I work with: </h3>
 <p>
   <img alt="Amazon Web Services (AWS)" src="https://img.shields.io/badge/Amazon%20Web%20Services%20(AWS)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -45,13 +45,3 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="CircleCI" src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
 </p>
-
-
-
-<h5>Unfortunately, I lost access to my old github account, to look at my pre 2023 git history please visit my old github account. </h5>
-<a href="https://github.com/aashirjaved-zz/">
-  <img align="left" alt="Aashir's Old Github" width="22px" src="https://user-images.githubusercontent.com/124151170/224557198-55de8077-7a30-4585-b6fb-9093aa13c9ca.png" />
-</a>
-
-<h2>What I am upto now a days?</h2>
-<h4>Currently, I am deeply engaged in the development of large language models (LLMs) and exploring ways to better manage their use, particularly in the context of Gen AI. In this work, I am focused on balancing the potential of LLMs with the need to ensure their use is appropriate and aligned with project goals.</h4>
