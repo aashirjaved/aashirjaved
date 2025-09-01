@@ -1,11 +1,4 @@
 <img width="1204" alt="Screenshot 2023-03-12 at 16 01 35" src="https://user-images.githubusercontent.com/124151170/224556887-a0ff65f2-126c-41d9-830f-5538831fc7bb.png">
-<a href="https://www.instagram.com/aashirjaved/">
-  <img align="left" alt="Aashir's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/aashirjaved/">
-  <img align="left" alt="Aashir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br>
 <h3>Technologies I work with: </h3>
 <p>
   <img alt="Amazon Web Services (AWS)" src="https://img.shields.io/badge/Amazon%20Web%20Services%20(AWS)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -44,3 +37,6 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="CircleCI" src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
 </p>
+<a href="https://www.instagram.com/aashirjaved/">
+  <img align="left" alt="Aashir's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
