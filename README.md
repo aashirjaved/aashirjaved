@@ -43,18 +43,20 @@
 ---
 
 <div align="center">
-<table>
+<table border="0">
 <tr>
 <td width="50%" valign="top">
 
-### 🛠 Product Engineering Philosophy
+<h3>🛠 Product Engineering Philosophy</h3>
 
-> *"Impact over complexity."*
+<p><em>"Impact over complexity."</em></p>
 
-* **🤖 AI Agents:** Building autonomous agents that can reason and execute, not just chat.
-* **📉 Cost Opt:** Optimizing LLM token usage and Cloud Infra costs for sustainable scaling.
-* **🛡 Reliability:** Treating AI non-determinism with robust backend error handling and eval pipelines.
-* **🚀 Shipping:** I believe in rapid prototyping and getting features into users' hands.
+<ul>
+  <li><b>🤖 AI Agents:</b> Building autonomous agents that can reason and execute, not just chat.</li>
+  <li><b>📉 Cost Opt:</b> Optimizing LLM token usage and Cloud Infra costs for sustainable scaling.</li>
+  <li><b>🛡 Reliability:</b> Treating AI non-determinism with robust backend error handling.</li>
+  <li><b>🚀 Shipping:</b> Rapid prototyping to get features into users' hands.</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
