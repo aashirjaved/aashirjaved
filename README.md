@@ -50,7 +50,7 @@
   <li><b>🛍️ Marketplace Dynamics:</b> Specialized in complex matching engines, payment flows (Stripe Connect), and fraud detection systems.</li>
   <li><b>🛡️ Reliability Engineering:</b> I design for failure. Circuit breakers, rate limiting, and graceful degradation are standard.</li>
   <li><b>🤝 Technical Leadership:</b> I focus on unblocking teams, simplifying architecture, and driving "Shipping Culture."</li>
-  <li><b>🤖 Applied AI:</b> Moving beyond hype—using RAG and Agents to automate operational bottlenecks.</li>
+  <li><b>🤖 Applied AI:</b> Moving beyond hype, using RAG and Agents to automate operational bottlenecks.</li>
 </ul>
 
 </td>
