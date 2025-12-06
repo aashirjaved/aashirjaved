@@ -57,7 +57,6 @@
 <td width="40%" valign="top">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aashirjaved&theme=radical&no-frame=true&column=4&margin-w=4&margin-h=4" alt="Trophies" />
   
   <br/><br/>
   
