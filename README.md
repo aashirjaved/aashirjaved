@@ -1,70 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Engineering%20at%20Scale&fontSize=70&fontAlignY=35&desc=Infrastructure%20Architect%20%7C%20Product%20Builder%20%7C%20Tech%20Lead&descAlignY=65&descAlign=50&fontColor=ffffff&fontStyle=bold" width="100%" />
+
+# Aashir Javed
+
+**Software engineer — I ship product end-to-end.**
+
+`@aashirjaved` everywhere
+
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=33E6F2&center=true&vCenter=true&width=800&lines=I+build+high-concurrency+Marketplace+platforms.;I+orchestrate+Kubernetes+at+scale.;I+lead+teams+to+ship+products+fast.;I+integrate+AI+to+solve+real+business+problems." alt="Typing SVG" />
-  </a>
-</div>
+---
 
-<br />
+### Now
 
-<div align="center">
-<table border="0">
-  <tr>
-    <td width="33%" align="center">
-      <b>☁️ Infrastructure (Core)</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker" /><br/>
-      <img src="https://skillicons.dev/icons?i=linux,nginx,jenkins,githubactions" />
-    </td>
-    <td width="33%" align="center">
-      <b>⚙️ Backend Engineering</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,go,python,nestjs" /><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" />
-    </td>
-    <td width="33%" align="center">
-      <b>✨ Product & Intelligence</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,graphql" /><br/>
-      <img src="https://skillicons.dev/icons?i=openai,pytorch,figma,apollo" />
-    </td>
-  </tr>
-</table>
-</div>
+- 🛠 &nbsp;Building marketplace & operations platforms in production
+- 🤖 &nbsp;Wiring AI agents into real workflows — not demos
+- ⚡ &nbsp;Cutting latency, raising reliability, moving fast
 
-<br />
-<br />
+### Where I've built
 
-<div align="center">
-<table border="0">
-<tr>
-<td width="60%" valign="top">
+- **Marketplaces** — matching, Stripe Connect, fraud signals
+- **Aviation SaaS** — archival, ops, fleet tooling
+- **Operations & CRM** — internal hubs, invoicing, automations
+- **Applied AI** — RAG, personal agents, runbook automation
 
-<h3>⚡ The Engineering Mindset</h3>
+### How I work
+
+> Resilient systems. Small teams. Tight feedback loops.
+> Architecture stays simple until reality demands otherwise.
+
+### Daily stack
 
 <p>
-  <em>"Focusing on generating value by building resilient, user-centric systems.'"</em>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,go,python,nextjs,nestjs" alt="ts node go python nextjs nestjs" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,kafka,graphql,prisma" alt="postgres redis mongo kafka graphql prisma" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,nginx,githubactions" alt="aws k8s terraform docker nginx gh-actions" />
 </p>
 
-<ul>
-  <li><b>🛍️ Marketplace Dynamics:</b> Specialized in complex matching engines, payment flows (Stripe Connect), and fraud detection systems.</li>
-  <li><b>🛡️ Reliability Engineering:</b> I design for failure. Circuit breakers, rate limiting, and graceful degradation are standard.</li>
-  <li><b>🤝 Technical Leadership:</b> I focus on unblocking teams, simplifying architecture, and driving "Shipping Culture."</li>
-  <li><b>🤖 Applied AI:</b> Moving beyond hype, using RAG and Agents to automate operational bottlenecks.</li>
-</ul>
-
-</td>
-<td width="40%" valign="top">
+---
 
 <div align="center">
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashirjaved&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
-</td>
-</tr>
-</table>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashirjaved&theme=transparent&hide_border=true&card_width=420" alt="GitHub streak" />
+
+<br/>
+
+<sub>Open to hard problems · always shipping.</sub>
+
 </div>
