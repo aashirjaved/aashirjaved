@@ -1,70 +1,90 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Engineering%20at%20Scale&fontSize=70&fontAlignY=35&desc=Infrastructure%20Architect%20%7C%20Product%20Builder%20%7C%20Tech%20Lead&descAlignY=65&descAlign=50&fontColor=ffffff&fontStyle=bold" width="100%" />
+
+# Aashir Javed
+
+**Senior Backend Engineer** · Motorway · London 🇬🇧
+
+<a href="https://www.linkedin.com/in/aashirjaved"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://aashir.net"><img src="https://img.shields.io/badge/aashir.net-111?style=flat-square&logo=safari&logoColor=white" alt="aashir.net" /></a>
+<a href="https://twitter.com/javed_aashir"><img src="https://img.shields.io/badge/@javed__aashir-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=33E6F2&center=true&vCenter=true&width=800&lines=I+build+high-concurrency+Marketplace+platforms.;I+orchestrate+Kubernetes+at+scale.;I+lead+teams+to+ship+products+fast.;I+integrate+AI+to+solve+real+business+problems." alt="Typing SVG" />
-  </a>
-</div>
+---
 
-<br />
+<details open>
+<summary><b>&nbsp;💼&nbsp; Work</b></summary>
 
-<div align="center">
-<table border="0">
-  <tr>
-    <td width="33%" align="center">
-      <b>☁️ Infrastructure (Core)</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker" /><br/>
-      <img src="https://skillicons.dev/icons?i=linux,nginx,jenkins,githubactions" />
-    </td>
-    <td width="33%" align="center">
-      <b>⚙️ Backend Engineering</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,go,python,nestjs" /><br/>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka" />
-    </td>
-    <td width="33%" align="center">
-      <b>✨ Product & Intelligence</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,graphql" /><br/>
-      <img src="https://skillicons.dev/icons?i=openai,pytorch,figma,apollo" />
-    </td>
-  </tr>
-</table>
-</div>
+<br/>
 
-<br />
-<br />
+**Senior Backend Engineer · [Motorway](https://motorway.co.uk)** &nbsp;·&nbsp; *London*
 
-<div align="center">
-<table border="0">
-<tr>
-<td width="60%" valign="top">
+Leading Core Engineering — foundational services that let product teams ship quickly and reliably.
 
-<h3>⚡ The Engineering Mindset</h3>
+**Previously · [MoonPay](https://moonpay.com)** &nbsp;·&nbsp; *London*
+
+Backend at scale. Won the popular vote at MoonPay's AI Agentic Engineering Hackathon.
+
+<br/>
+
+**Track record**
+
+```
+6+ yrs    senior backend & platform engineering
+1000+ RPS systems architected
+99.9%     uptime in production
+15%       latency cut on critical paths
+100+      engineers mentored across orgs
+```
+
+**Focus**
+
+- 🛍 &nbsp;Marketplaces · matching engines, payments, fraud signals
+- ⚙ &nbsp;Platform · core services, reliability, developer velocity
+- 🤖 &nbsp;Applied AI · production agents, LLM automation, MLOps
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>&nbsp;🧪&nbsp; Personal adventures</b></summary>
+
+<br/>
+
+Things I build on weekends — for me, for fun, for learning.
+
+- **OpenClaw** — personal AI agent running on a Raspberry Pi, hooked to iMessage & terminal
+- **Academe / Academe-AI** — educational AI experiments
+- **Educational-agent** — early agent prototyping
+- **Commandline-tool** — small CLI playground
+
+Tinkering with anything that lets me try a new idea fast — agents, hardware, automation, weird APIs.
+
+</details>
+
+---
+
+### Daily stack
 
 <p>
-  <em>"Focusing on generating value by building resilient, user-centric systems.'"</em>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,go,python,nextjs,nestjs" alt="ts node go python nextjs nestjs" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,kafka,graphql,prisma" alt="postgres redis mongo kafka graphql prisma" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,nginx,githubactions" alt="aws k8s terraform docker nginx gh-actions" />
 </p>
 
-<ul>
-  <li><b>🛍️ Marketplace Dynamics:</b> Specialized in complex matching engines, payment flows (Stripe Connect), and fraud detection systems.</li>
-  <li><b>🛡️ Reliability Engineering:</b> I design for failure. Circuit breakers, rate limiting, and graceful degradation are standard.</li>
-  <li><b>🤝 Technical Leadership:</b> I focus on unblocking teams, simplifying architecture, and driving "Shipping Culture."</li>
-  <li><b>🤖 Applied AI:</b> Moving beyond hype, using RAG and Agents to automate operational bottlenecks.</li>
-</ul>
-
-</td>
-<td width="40%" valign="top">
+---
 
 <div align="center">
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashirjaved&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
-</td>
-</tr>
-</table>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashirjaved&theme=transparent&hide_border=true&card_width=420" alt="GitHub streak" />
+
+<br/>
+
+<sub>Open to hard problems · always shipping.</sub>
+
 </div>
