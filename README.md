@@ -2,7 +2,7 @@
 
 # Aashir Javed
 
-**Senior Backend Engineer** · Motorway · London 🇬🇧
+**Senior Software Engineer** · MoonPay · London 🇬🇧
 
 <a href="https://www.linkedin.com/in/aashirjaved"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://aashir.net"><img src="https://img.shields.io/badge/aashir.net-111?style=flat-square&logo=safari&logoColor=white" alt="aashir.net" /></a>
@@ -17,13 +17,11 @@
 
 <br/>
 
-**Senior Backend Engineer · [Motorway](https://motorway.co.uk)** &nbsp;·&nbsp; *London*
+**Currently · [MoonPay](https://moonpay.com)** &nbsp;·&nbsp; *Senior Software Engineer*
 
-Leading Core Engineering — foundational services that let product teams ship quickly and reliably.
+Backend at crypto-payments scale. Won the popular vote at MoonPay's AI Agentic Engineering Hackathon.
 
-**Previously · [MoonPay](https://moonpay.com)** &nbsp;·&nbsp; *London*
-
-Backend at scale. Won the popular vote at MoonPay's AI Agentic Engineering Hackathon.
+**Previously** &nbsp;·&nbsp; Motorway &nbsp;·&nbsp; Deliveroo &nbsp;·&nbsp; Zalando &nbsp;·&nbsp; IBM
 
 <br/>
 
@@ -39,7 +37,7 @@ Backend at scale. Won the popular vote at MoonPay's AI Agentic Engineering Hacka
 
 **Focus**
 
-- 🛍 &nbsp;Marketplaces · matching engines, payments, fraud signals
+- 🛍 &nbsp;Marketplaces · matching, payments, fraud signals
 - ⚙ &nbsp;Platform · core services, reliability, developer velocity
 - 🤖 &nbsp;Applied AI · production agents, LLM automation, MLOps
 
@@ -54,12 +52,12 @@ Backend at scale. Won the popular vote at MoonPay's AI Agentic Engineering Hacka
 
 Things I build on weekends — for me, for fun, for learning.
 
-- **OpenClaw** — personal AI agent running on a Raspberry Pi, hooked to iMessage & terminal
-- **Academe / Academe-AI** — educational AI experiments
-- **Educational-agent** — early agent prototyping
-- **Commandline-tool** — small CLI playground
+- 🤖 &nbsp;A personal AI agent running on a Raspberry Pi, wired to iMessage and a terminal
+- 🎓 &nbsp;Educational AI experiments and tutor agents
+- 🧪 &nbsp;Lightweight agent prototypes for new ideas
+- 🛠 &nbsp;Small CLI playgrounds and dev-tool tinkering
 
-Tinkering with anything that lets me try a new idea fast — agents, hardware, automation, weird APIs.
+Currently shipping **`whatify`** — a side project I'm building in public spirit.
 
 </details>
 
