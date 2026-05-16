@@ -12,7 +12,7 @@ Senior Software Engineer @ MoonPay · London 🇬🇧
 
 <a href="https://www.linkedin.com/in/aashirjaved"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://aashir.net"><img src="https://img.shields.io/badge/aashir.net-111?style=flat-square&logo=safari&logoColor=white" alt="aashir.net" /></a>
-<a href="https://twitter.com/javed_aashir"><img src="https://img.shields.io/badge/@javed__aashir-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://twitter.com/aasjav"><img src="https://img.shields.io/badge/@aasjav-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 
 </div>
 
