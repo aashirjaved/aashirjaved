@@ -2,31 +2,68 @@
 
 # Aashir Javed
 
-**Software engineer — I ship product end-to-end.**
+**Senior Backend Engineer** · Motorway · London 🇬🇧
 
-`@aashirjaved` everywhere
+<a href="https://www.linkedin.com/in/aashirjaved"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://aashir.net"><img src="https://img.shields.io/badge/aashir.net-111?style=flat-square&logo=safari&logoColor=white" alt="aashir.net" /></a>
+<a href="https://twitter.com/javed_aashir"><img src="https://img.shields.io/badge/@javed__aashir-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 
 </div>
 
 ---
 
-### Now
+<details open>
+<summary><b>&nbsp;💼&nbsp; Work</b></summary>
 
-- 🛠 &nbsp;Building marketplace & operations platforms in production
-- 🤖 &nbsp;Wiring AI agents into real workflows — not demos
-- ⚡ &nbsp;Cutting latency, raising reliability, moving fast
+<br/>
 
-### Where I've built
+**Senior Backend Engineer · [Motorway](https://motorway.co.uk)** &nbsp;·&nbsp; *London*
 
-- **Marketplaces** — matching, Stripe Connect, fraud signals
-- **Aviation SaaS** — archival, ops, fleet tooling
-- **Operations & CRM** — internal hubs, invoicing, automations
-- **Applied AI** — RAG, personal agents, runbook automation
+Leading Core Engineering — foundational services that let product teams ship quickly and reliably.
 
-### How I work
+**Previously · [MoonPay](https://moonpay.com)** &nbsp;·&nbsp; *London*
 
-> Resilient systems. Small teams. Tight feedback loops.
-> Architecture stays simple until reality demands otherwise.
+Backend at scale. Won the popular vote at MoonPay's AI Agentic Engineering Hackathon.
+
+<br/>
+
+**Track record**
+
+```
+6+ yrs    senior backend & platform engineering
+1000+ RPS systems architected
+99.9%     uptime in production
+15%       latency cut on critical paths
+100+      engineers mentored across orgs
+```
+
+**Focus**
+
+- 🛍 &nbsp;Marketplaces · matching engines, payments, fraud signals
+- ⚙ &nbsp;Platform · core services, reliability, developer velocity
+- 🤖 &nbsp;Applied AI · production agents, LLM automation, MLOps
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>&nbsp;🧪&nbsp; Personal adventures</b></summary>
+
+<br/>
+
+Things I build on weekends — for me, for fun, for learning.
+
+- **OpenClaw** — personal AI agent running on a Raspberry Pi, hooked to iMessage & terminal
+- **Academe / Academe-AI** — educational AI experiments
+- **Educational-agent** — early agent prototyping
+- **Commandline-tool** — small CLI playground
+
+Tinkering with anything that lets me try a new idea fast — agents, hardware, automation, weird APIs.
+
+</details>
+
+---
 
 ### Daily stack
 
