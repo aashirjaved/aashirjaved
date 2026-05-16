@@ -2,7 +2,13 @@
 
 # Aashir Javed
 
-**Senior Software Engineer** · MoonPay · London 🇬🇧
+**Building production AI agents at the edge of crypto payments.**
+
+Senior Software Engineer @ MoonPay · London 🇬🇧
+
+`Crypto` &nbsp; `AI` &nbsp; `LLMs` &nbsp; `Agentic Engineering` &nbsp; `Personal Agents`
+
+<br/>
 
 <a href="https://www.linkedin.com/in/aashirjaved"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://aashir.net"><img src="https://img.shields.io/badge/aashir.net-111?style=flat-square&logo=safari&logoColor=white" alt="aashir.net" /></a>
@@ -37,9 +43,10 @@ Backend at crypto-payments scale. Won the popular vote at MoonPay's AI Agentic E
 
 **Focus**
 
-- 🛍 &nbsp;Marketplaces · matching, payments, fraud signals
+- 🪙 &nbsp;Crypto · payment rails, on/off-ramps, infra at scale
+- 🤖 &nbsp;Agentic engineering · production agents, tool-use, LLM workflows
+- 🧠 &nbsp;Applied AI · RAG, MLOps, real automation
 - ⚙ &nbsp;Platform · core services, reliability, developer velocity
-- 🤖 &nbsp;Applied AI · production agents, LLM automation, MLOps
 
 </details>
 
@@ -50,12 +57,12 @@ Backend at crypto-payments scale. Won the popular vote at MoonPay's AI Agentic E
 
 <br/>
 
-Things I build on weekends — for me, for fun, for learning.
+What I build on weekends — for me, for fun, for learning.
 
-- 🤖 &nbsp;A personal AI agent running on a Raspberry Pi, wired to iMessage and a terminal
-- 🎓 &nbsp;Educational AI experiments and tutor agents
-- 🧪 &nbsp;Lightweight agent prototypes for new ideas
-- 🛠 &nbsp;Small CLI playgrounds and dev-tool tinkering
+- 🤖 &nbsp;**Personal agents** — running on a Raspberry Pi, wired to iMessage & terminal
+- 🧪 &nbsp;**Agentic prototypes** — quick experiments to stress-test new ideas
+- 🎓 &nbsp;**Tutor agents** & educational AI tinkering
+- 🛠 &nbsp;**CLI playgrounds** & dev-tool experiments
 
 Currently shipping **`whatify`** — a side project I'm building in public spirit.
 
