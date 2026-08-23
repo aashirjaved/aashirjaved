@@ -64,8 +64,6 @@ What I build on weekends — for me, for fun, for learning.
 - 🎓 &nbsp;**Tutor agents** & educational AI tinkering
 - 🛠 &nbsp;**CLI playgrounds** & dev-tool experiments
 
-Currently shipping **`whatify`** — a side project I'm building in public spirit.
-
 </details>
 
 ---
