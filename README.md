@@ -2,92 +2,28 @@
 
 # Aashir Javed
 
-**Building production AI agents at the edge of crypto payments.**
+**Compliance and risk infrastructure for crypto and private credit.**
 
-Senior Software Engineer @ MoonPay · London 🇬🇧
-
-`Crypto` &nbsp; `AI` &nbsp; `LLMs` &nbsp; `Agentic Engineering` &nbsp; `Personal Agents`
+Senior Engineer, Identity Platform, MoonPay · London
 
 <br/>
 
+<a href="https://aashir.net"><img src="https://img.shields.io/badge/aashir.net-111?style=flat-square" alt="aashir.net" /></a>
 <a href="https://www.linkedin.com/in/aashirjaved"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://aashir.net"><img src="https://img.shields.io/badge/aashir.net-111?style=flat-square&logo=safari&logoColor=white" alt="aashir.net" /></a>
-<a href="https://twitter.com/aasjav"><img src="https://img.shields.io/badge/@aasjav-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://twitter.com/aasjav"><img src="https://img.shields.io/badge/@aasjav-111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 
 </div>
 
 ---
 
-<details open>
-<summary><b>&nbsp;💼&nbsp; Work</b></summary>
+I build the part of a financial product that decides who may transact, where, and under what limits. KYC, sanctions screening, risk rules, authorisation, and the AI that prepares the file without making the call.
 
-<br/>
+**Now.** Identity Platform at MoonPay: authentication, KYC tiers, risk scoring, sanctions screening, jurisdiction rules.
 
-**Currently · [MoonPay](https://moonpay.com)** &nbsp;·&nbsp; *Senior Software Engineer*
+**Built.** Kleido, a sanctions and AML review platform live for a UK lettings agency. An on-prem ID document reader with per-field verification. Magzi, a self hosted agent in Rust.
 
-Backend at crypto-payments scale. Won the popular vote at MoonPay's AI Agentic Engineering Hackathon.
+**Before.** Motorway, Deliveroo, Zalando, Nordcloud.
 
-**Previously** &nbsp;·&nbsp; Motorway &nbsp;·&nbsp; Deliveroo &nbsp;·&nbsp; Zalando &nbsp;·&nbsp; IBM
+**Open source.** [moonpay/skills](https://github.com/moonpay/skills) contributor. [alchemy-infra](https://github.com/aashirjaved/alchemy-infra), infrastructure as TypeScript for agents.
 
-<br/>
-
-**Track record**
-
-```
-6+ yrs    senior backend & platform engineering
-1000+ RPS systems architected
-99.9%     uptime in production
-15%       latency cut on critical paths
-100+      engineers mentored across orgs
-```
-
-**Focus**
-
-- 🪙 &nbsp;Crypto · payment rails, on/off-ramps, infra at scale
-- 🤖 &nbsp;Agentic engineering · production agents, tool-use, LLM workflows
-- 🧠 &nbsp;Applied AI · RAG, MLOps, real automation
-- ⚙ &nbsp;Platform · core services, reliability, developer velocity
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>&nbsp;🧪&nbsp; Personal adventures</b></summary>
-
-<br/>
-
-What I build on weekends — for me, for fun, for learning.
-
-- 🤖 &nbsp;**Personal agents** — running on a Raspberry Pi, wired to iMessage & terminal
-- 🧪 &nbsp;**Agentic prototypes** — quick experiments to stress-test new ideas
-- 🎓 &nbsp;**Tutor agents** & educational AI tinkering
-- 🛠 &nbsp;**CLI playgrounds** & dev-tool experiments
-
-</details>
-
----
-
-### Daily stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,nodejs,go,python,nextjs,nestjs" alt="ts node go python nextjs nestjs" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,kafka,graphql,prisma" alt="postgres redis mongo kafka graphql prisma" />
-</p>
-<p>
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,nginx,githubactions" alt="aws k8s terraform docker nginx gh-actions" />
-</p>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashirjaved&theme=transparent&hide_border=true&card_width=420" alt="GitHub streak" />
-
-<br/>
-
-<sub>Open to hard problems · always shipping.</sub>
-
-</div>
+Available for advisory and build work with private credit, DeFi and fintech teams. [me@aashir.net](mailto:me@aashir.net)
